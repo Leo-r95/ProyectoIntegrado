@@ -1,0 +1,28 @@
+body{
+    display: block;
+    background-image: url(https://i.pinimg.com/564x/d1/58/cd/d158cd981ffd78c09844c2567c68f63e.jpg);
+}
+
+header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #ffffff9c;
+    text-align: center;
+    margin: 75px;
+    background-color: rgb(6, 4, 5);
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.fondotarjetas{
+    background-color: black;
+}
+
+.Contacto{
+    color: white;
+    text-align: center;
+}
+
+.Quienessomos{
+    color: white;
+    text-align: center;
+}
