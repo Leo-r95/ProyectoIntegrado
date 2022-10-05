@@ -11,6 +11,7 @@ header{
     background-color: rgb(6, 4, 5);
     margin-left: 300px;
     margin-right: 300px;
+    padding: 20px;
 }
 
 .fondotarjetas{
@@ -26,3 +27,45 @@ header{
     color: white;
     text-align: center;
 }
+
+.pagina{
+    display: block;
+    border: solid black 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #ffffff9c;
+    text-align: center;
+    margin: 2cm;
+    background-color: rgb(6, 4, 5);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 8px;
+}
+
+.Tamaño1{
+    font-size: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Tamaño1 img{
+    width: 400px;
+    border: solid black 10px;
+}
+
+/*@media(min-width: 768px) {
+    header{
+        text-align: center;
+        padding: 10px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-color: gray;
+    }
+
+    .pagina{
+        padding: 10px;
+        font-size: 24px;
+        margin-left: 30px;
+        margin-right: 30px;
+        border-color: gray;
+    }
+}*/
