@@ -13,10 +13,74 @@ header{
     margin-right: 300px;
 }
 
+input{
+    width: 95%;
+    padding: 10px;
+    box-sizing: none;
+    outline: none;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid rgb(17, 17, 17);
+  
+  }
+
+  label {
+    content: attr(type);
+    display: block;
+    margin: 28px 0 0;
+    font-size: 20px;
+    color: rgb(12, 9, 9);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
 .fondotarjetas{
     background-color: black;
 }
 
+
+/**/
+
+/*Contacto*/
+.form{
+    width: 672px;
+    height: 690px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 40px -10px #000;
+    margin: calc(50vh - 220px) auto;
+    padding: 20px 30px;
+    box-sizing: border-box;
+    position: relative;
+  }
+  .contacto{
+    margin: 10px;
+    padding-bottom: 20px;
+    width: 180px;
+    color: rgb(83, 83, 83);
+    border-bottom: 3px solid black;
+  }
+  
+  .boton_contacto {
+    float: right;
+    padding: 10px 247px;
+    margin: 70px 0 0;
+    font-family:Arial, Helvetica, sans-serif ;
+    border: 3px solid gray;
+    background: 0;
+    color: black;
+    cursor: pointer;
+  
+  }
+  .boton_contacto:hover{
+    background: gray;
+    color: white;
+  }
+  
+  .contacto_contenedor{
+    margin: 0%, 20%;
+  }
+  
 .Contacto{
     color: white;
     text-align: center;
