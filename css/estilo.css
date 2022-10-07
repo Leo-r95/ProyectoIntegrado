@@ -86,6 +86,13 @@ input{
     text-align: center;
 }
 
+/*Footer*/
+.footer_contenedor{
+  background-color: #000;
+}
+
+
+
 .Quienessomos{
     color: white;
     text-align: center;
