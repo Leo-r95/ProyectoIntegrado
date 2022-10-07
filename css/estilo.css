@@ -89,6 +89,19 @@ input{
 /*Footer*/
 .footer_contenedor{
   background-color: #000;
+  
+}
+
+.col {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 10;
+  
+}
+
+
+
+.navfooter{
+  display: grid;
 }
 
 
