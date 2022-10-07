@@ -13,6 +13,16 @@ header{
     margin-right: 300px;
 }
 
+.navbar-brand{
+    font-family:'Rubik Dirt', cursive;
+    /* margin: 0px 0px 0px 480px; */
+    
+}
+
+.offcanvas-title{
+    font-family:'Rubik Dirt', cursive;
+}
+
 .fondotarjetas{
     background-color: black;
 }
@@ -25,4 +35,8 @@ header{
 .Quienessomos{
     color: white;
     text-align: center;
+}
+
+#copyright{
+    font-size: 12px;
 }
