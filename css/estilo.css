@@ -59,12 +59,15 @@ header{
 }
 
 .Seccion3{
-    width: 400px;
-    height: 600px;
+    width: 50vw;
+    height: 50vw;
+    max-width: 100px;
+    min-width: 120px;
+    max-height: 1000px;
     overflow: hidden;
     position: relative;
     margin: 200 px auto;
-    border-radius: 40px;
+    border-radius: 20px;
     box-shadow: 5px 8px 12px black;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
@@ -83,7 +86,7 @@ header{
 
 .Seccion3 p{
     font-family: 'Berkshire Swash', cursive;
-    font-size: 3rem;
+    font-size: 2rem;
     color: blanchedalmond;
     position: absolute;
     top: 50%;
