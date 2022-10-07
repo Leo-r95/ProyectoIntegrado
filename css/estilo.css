@@ -61,8 +61,8 @@ header {
 }
 
 .Seccion3 {
-    width: 400px;
-    height: 600px;
+    width: 50vw;
+    height: 40vw;
     overflow: hidden;
     position: relative;
     margin: 200 px auto;
