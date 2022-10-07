@@ -1,3 +1,11 @@
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body{
     display: block;
     background-image: url(https://i.pinimg.com/564x/d1/58/cd/d158cd981ffd78c09844c2567c68f63e.jpg);
