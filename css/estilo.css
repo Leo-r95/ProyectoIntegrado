@@ -22,6 +22,15 @@ header {
     padding: 20px;
 }
 
+header h1{
+    font-size: 60px;
+}
+
+.inicio{
+    display:flex;
+    justify-content: space-around;
+}
+
 .navbar-brand{
     font-family:'Rubik Dirt', cursive;
     /* margin: 0px 0px 0px 480px; */
